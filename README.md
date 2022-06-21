@@ -1,6 +1,6 @@
 # CRUD OPERATION FOR EMPLOYEE & DEPARTEMENT
 
-### Develop the Back-End using :
+### Develop the application using :
 
 - Asp.NET Core technology
 - Angular
