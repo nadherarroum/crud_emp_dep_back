@@ -15,6 +15,4 @@ dotnet run
 
 ---
 
-<a href="https://github.com/nadherarroum/crud_emp_dep_front">
-<h4>Link to The front-end part</h4>
-</a>
+[Link to The front-end part](https://github.com/nadherarroum/crud_emp_dep_front)
